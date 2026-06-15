@@ -2,7 +2,7 @@
 
 ## In preparation
 - <a href="./notebooks/misfit_josephson.html" target="_blank">1Q1H misfit - intrinsic Josephson junctions</a>
-- <a href="./notebooks/misfit_multiband.html" target="_blank">Multiband superconducting gap in misfits</a>
+- <a href="./notebooks/misfit_multigap.html" target="_blank">Multiband superconducting gap in misfits</a>
 - <a href="./notebooks/4H-STM.html" target="_blank">Scanning Tunneling Microscopy of 4H-NbSe<sub>2</sub></a>
 
 ## Published
