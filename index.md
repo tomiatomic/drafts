@@ -5,9 +5,9 @@
 - <a href="./notebooks/4H-STM.html" target="_blank">Scanning Tunneling Microscopy of 4H-NbSe<sub>2</sub></a>
 
 ## Submitted
-- <a href="./notebooks/misfit_multigap.html" target="_blank">Multiband superconducting gap in misfits</a>
 
 ## Published
+- <a href="./notebooks/misfit_multigap.html" target="_blank">Multiband superconducting gap in misfits</a>
 - <a href="./notebooks/Ising_4H.html" target="_blank">Ising Superconductivity in Noncentrosymmetric Bulk NbSe<sub>2</sub></a>
 
 ## Idle
